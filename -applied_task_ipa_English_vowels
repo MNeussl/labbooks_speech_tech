@@ -1,0 +1,123 @@
+\documentclass{../labbook}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Fill in the appropriate information below
+\lhead{Maria Neussl}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{mdframed}[backgroundcolor=blue!20]
+\LaTeX ~submissions are mandatory. Submitting your assignment in another format will be graded 0. Convenient table for the TIPA package used to processing IPA symbols can be found \href{https://jon.dehdari.org/tutorials/tipachart_mod.pdf}{here}. Detailed TIPA manual can be found \href{http://www.l.u-tokyo.ac.jp/~fkr/tipa/tipaman.pdf}{here}.
+\end{mdframed}
+
+\tableofcontents %Automatic table of contents
+
+\section{Lab Book A1.}
+In A1 we focus on differences between phonemes and orthographic letters. 
+
+\begin{problem}{1}
+\textbf{[2]} \textit{Same sound}: Come up with a set of 4 English words that have the CVC structure, where C = consonant, V = vowel. CVCC, CCVC and CCVCC words are also allowed. Vowel sound should always be the same. For example, “hoot”, “grew”, “moon“, “suit” all have the same vowel \textipa{/u/}. Name the vowel in IPA.
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{solution}
+Four words with the same vowel:
+\begin{enumerate}
+    \item seat
+    \item mach\textbf{i}ne 
+    \item see
+    \item key
+\end{enumerate}
+
+
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}{2}
+\textbf{[4]} \textit{Counting sounds}: Give three examples of the English words where there are more sounds than letters and three examples of the English words where there are less sounds than letters.
+E.g., in word ``axis'' there are 5 sounds, and in the word ``knock'' there 3 sounds.  Do not use the same examples of the letter-sound combinations, think of different ones (e.g., do not provide three words with letter 'x' that makes the two sounds /ks/). 
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{solution}
+Three words where there are more sounds than letters:
+\begin{enumerate}
+    \item by
+    \item USA
+    \item Museum
+\end{enumerate}
+\bigskip
+
+Three words where there are less sounds than letters:
+\begin{enumerate}
+    \item air
+    \item school
+    \item thought
+\end{enumerate}
+
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}{3}
+\textbf{[4]} \textit{Be creative}: A famous example of irregularities in English spelling and pronunciation is word “ghoti”, first mention of which dates back to 1855 (in the correspondence between Charles Ollier and Leigh Hunt).
+
+The word is intended to be pronounced in the same way as ``fish'' (\textipa{/fIS/}) using these sounds:
+\begin{itemize}
+    \item gh, pronounced as \textipa{/f/} as in enough \textipa{/I"n2f/}
+    \item o, pronounced as \textipa{/I/} as in women \textipa{/"wImIn/}
+    \item ti, pronounced as \textipa{/S/} as in nation \textipa{/"neIS9n/} or motion \textipa{/"moUS9n/}
+\end{itemize}
+
+
+One would expect to pronounce the word in English as "goatee", \textipa{/"goUti/}, not "fish".
+
+You can follow the “ghoti” example above and come up with a creative or absurd spelling of any existing word that would demonstrate English or other language idiosyncrasies. Here are the steps:
+\begin{itemize}
+	\item Select a real English word or words you will work with.
+	\item Find alternative spelling for all sounds in that word or words -- these alternative spelling should be backed up by other existing words.
+	\item Provide transcriptions for the words from which you have taken specific sounds.
+	\item Provide the transctiption of how you expect people to read your resulted spelling.
+\end{itemize}
+
+
+\end{problem}
+
+\begin{solution}
+
+\underline{Your word(s)}: Frequency, coin
+
+\bigskip
+
+\underline{Creative or absurd spelling of your word(s)}: Phlachimse, Tshwom
+\bigskip
+
+\underline{Transcriptions for the words from which you have taken specific sounds}:
+\begin{itemize}
+    \item < f > from \textbf{Ph}onetics
+    \item < r >from co\textbf{l}onel
+    \item < e > from c\textbf{a}t
+    \item < qu > from \textbf{ch}oir
+    \item < e > from g\textbf{i}rl
+    \item < n > from autu\textbf{m}n
+    \item < c > from \textbf{s}ide < c > =[s], the phone is the same
+    \item < y > from rout\textbf{i}ne
+
+    \item < c > from Cappu\textbf{c}cino [\textipa{k{\ae}pUtS"i:noU}]
+    \item < o > from \textbf{o}ne [wan] 
+    \item < i> from w\textbf{o}men [\textipa{wImIn}]
+    \item < n > from autu\textbf{m}n
+    
+
+
+\end{itemize}
+
+\underline{The pronunciation of your creative spelling}: what you would expect people to pronounce your made up spelling?
+\bigskip
+
+
+[\textipa{fl{\ae}SI\textipa{mz}}], [\textipa{tSwom}]
+
+
+
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
