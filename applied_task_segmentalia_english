@@ -1,0 +1,59 @@
+\documentclass{../labbook}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Fill in the appropriate information below
+\lhead{Maria Else Paule Neussl}
+\rhead{Speech Sounds} 
+\chead{\textbf{Lab Book A2. Due: 17.09.2025 23:59 CEST}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{mdframed}[backgroundcolor=blue!20]
+\LaTeX ~submissions are mandatory. Submitting your assignment in another format will be graded 0. Convenient table for the TIPA package used to processing IPA symbols can be found \href{https://jon.dehdari.org/tutorials/tipachart_mod.pdf}{here}. Detailed TIPA manual can be found \href{http://www.l.u-tokyo.ac.jp/~fkr/tipa/tipaman.pdf}{here}.
+\end{mdframed}
+
+\tableofcontents %Automatic table of contents
+
+\section{Lab Book A2. }
+In the Lab Book A2 we deal with transcribing speech. 
+
+\begin{problem}{1}
+\textbf{[2]} \textit{IPA to text}: Write down in orthographic notation the sentence  that is pronounced below (it is a transcription of a speaker with a fairly neutral variety of American English):
+
+\textipa{"pAnini w@z @n "\t{ei}n\t{tS}@nt "Indi@n g\*r@"me\*ri@n (@"p\*rAks@m@tli "fIfT "sEn\t{tS}@\*ri ""bi"si) hu Iz ""m\t{oU}st "f\t{eI}m@s f\textrhookschwa~"fo\*rmj@""l\t{eI}RiN "fo\*r "T\t{aU}z@nd "\*rulz @v "s\ae nsk\*rIt mo\*r"fAl@\t{dZ}i.}
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+Panini was an ancient Indian grammarian (approximately fifth century B.C.) who is most famous for formularing four thousand rules of Sanskrit Morphology.
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{problem}{2}
+\textbf{[4]} \textit{Sound to IPA}: Transcribe the recording of ``and maybe a snack for her brother Bob" from the ``Stella passage''. The recording that you need to transcribe can be found \href{https://drive.google.com/file/d/16fmkXCrlayT1Flpha4BS-S8ED8dwV61w/view?usp=sharing}{here}. Provide a narrow phonetic transcription, but do not go into many details and don't use diacritics (unless you really want to). Listen carefully to how the speaker produces vowels and consonants. If you are in doubt, you may provide alternative transcription of a certain word that also feels right to you, but do it on a separate line. 
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+
+\textipa{\ae}n me\textipa{I}b\textipa{@} \textipa{@} sn\textipa{\ae:}k fo d\textipa{\oe}\textipa{5 }b\textipa{\*r}\textipa{2}\textipa{D}\textipa{@}\textipa{\*r} b\textipa{o:}b
+
+alternative transcription for <and>: [\textipa{\ae}nd]
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{problem}{3}
+\textbf{[4]} \textit{Sound to IPA}: Listen carefully to another recording \href{https://drive.google.com/file/d/1YI6uoBzU_VhTnzGgkGsEjSM5zuPkD38H/view?usp=sharing}{here} of the same phrase ``and maybe a snack for her brother Bob" from the ``Stella passage". List and briefly describe at least four phonetic differences between this recording and the recording from Assignment 2 in this lab book. You do not need to transcribe this recording. 
+\end{problem}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{solution}
+\begin{enumerate}
+	\item the lengths of the vowel [\textipa{\ae}] in <snack>
+	\item the lengths of the vowel [o] in <Bob> 
+	\item the last vowel in <maybe> is once more reduced like an [\textipa{@}] and in the second audio more like an [\textipa{I}]
+	\item the realisation of the two words <for her> is once very reduced and the <h> from <her> sounds like a <d> [fo d\textipa{\oe}\textipa{5 }] while in the second audio more like standart English:[f\textipa{o:} h\textipa{\oe}\textipa{\*r}]
+    \item the realisation of the final <r> in <brother> is firstly a [\textipa{\*r}] and secondly reduced as [\textipa{@ }]
+    \item the sentence stress is on two different words: First on <snack> and second on <Bob>
+\end{enumerate}
+
+\end{solution}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
