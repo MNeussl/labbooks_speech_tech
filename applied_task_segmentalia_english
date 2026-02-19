@@ -1,9 +1,7 @@
 \documentclass{../labbook}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Fill in the appropriate information below
-\lhead{Maria Else Paule Neussl}
-\rhead{Speech Sounds} 
-\chead{\textbf{Lab Book A2. Due: 17.09.2025 23:59 CEST}}
+\lhead{Maria Neussl}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
